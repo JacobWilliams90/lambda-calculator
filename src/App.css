@@ -43,7 +43,7 @@ button {
 }
 
 button:nth-child(10){
-    width: 66%;
+    width: 60%;
     border-radius: 4rem;
 }
 .btns{
