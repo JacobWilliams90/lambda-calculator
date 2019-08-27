@@ -1,0 +1,78 @@
+.container {
+    background: #bb1333;
+    max-width: 472px;
+    max-height: 709px;
+    height: 709px;
+    width: 472px;
+    font-size: 3rem;
+    color: white;
+    border-radius: 1rem;
+}
+
+.buttons {
+    display: flex;
+    margin: 0 5%;
+}
+
+.container img{
+    padding-top: 2rem;
+}
+
+.logo-container{
+    padding-left: 2rem;
+    width: 20%;
+}
+
+.display {
+    margin: 1rem 2rem;
+    padding: 1rem 2.2rem;
+    border-radius: 4rem;
+    width: 70%;
+    background: #333;
+    text-align: right;
+}
+
+button {
+    margin: 2px auto;
+    padding: 1.5rem;
+    border-radius: 50%;
+    color: white;
+    font-size: 2rem;
+    width: 82px;
+    height: 82px;
+}
+
+button:nth-child(10){
+    width: 60%;
+    border-radius: 4rem;
+}
+.btns{
+    display: flex;
+    margin-left: 2rem;
+    padding-top: 1rem;
+}
+.nums{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.nums button{
+    background: #0c3d78;
+}
+
+.ops{
+    padding-left: 1rem;
+}
+.ops button{
+    background: #007990;
+}
+
+.spec{
+    display:flex;
+}
+
+.spec button{
+    background: #1a61af;
+}
+
+
